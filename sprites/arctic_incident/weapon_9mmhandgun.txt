@@ -1,0 +1,8 @@
+// Beretta
+
+10
+weapon			640 arctic_incident/640hud_ai01	0	49	170	45
+weapon_s		640 arctic_incident/640hud_ai02	0	49	170	45
+ammo				640		640hud7		0	60	24	24
+crosshair			640		crosshairs	24	0	24	24
+autoaim				640		crosshairs	0	72	24	24
