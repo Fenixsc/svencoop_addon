@@ -1,0 +1,6 @@
+"squeek/sqk_blast1.wav" "ambience/biggun3.wav"
+"squeek/sqk_deploy1.wav" "garg/gar_alert2.wav"
+"squeek/sqk_die1.wav" "garg/gar_pain2.wav"
+"squeek/sqk_hunt1.wav" "garg/gar_step1.wav"
+"squeek/sqk_hunt2.wav" "garg/gar_step2.wav"
+"squeek/sqk_hunt3.wav" "garg/gar_step1.wav"

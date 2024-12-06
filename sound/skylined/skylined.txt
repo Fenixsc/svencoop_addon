@@ -1,0 +1,1 @@
+"weapons/pl_gun3.wav" "weapons/pl_gun2.wav"

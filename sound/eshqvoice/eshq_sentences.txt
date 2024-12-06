@@ -1,0 +1,84 @@
+M01F01 eshqvoice/gman/m01f01
+M01F02 eshqvoice/gman/m01f02
+M02F01 eshqvoice/gman/m02f01
+M03F01 eshqvoice/gman/m03f01
+M05A01 eshqvoice/gman/m05a01
+M05f01 eshqvoice/gman/m05f01
+M05F02 eshqvoice/gman/m05f02
+M05F03 eshqvoice/gman/m05f03
+M05F04 eshqvoice/gman/m05f04
+M05F05 eshqvoice/gman/m05f05
+M05F06 eshqvoice/gman/m05f06
+M05F07 eshqvoice/gman/m05f07
+M05F08 eshqvoice/gman/m05f08
+M08E01 eshqvoice/gman/m08e01
+M08E02 eshqvoice/gman/m08e02
+M08E03 eshqvoice/gman/m08e03
+M08E04 eshqvoice/gman/m08e04
+M08E05 eshqvoice/gman/m08e05
+M08E06 eshqvoice/gman/m08e06
+M08E07 eshqvoice/gman/m08e07
+M08E08 eshqvoice/gman/m08e08
+M09F01 eshqvoice/gman/m09f01
+M10F01 eshqvoice/gman/m10f01
+M11F01 eshqvoice/gman/m11f01
+M11F02 eshqvoice/gman/m11f02
+M11F03 eshqvoice/gman/m11f03
+
+// ESHQ01, starting
+ESHQ01_1 player/pl_ladder1. pl_ladder2. pl_ladder3. pl_ladder4. pl_ladder3. pl_ladder1. pl_ladder4. pl_ladder2. pl_ladder1. pl_ladder4. pl_ladder3. pl_ladder2. pl_ladder3. pl_ladder1. pl_ladder4
+ESHQ01_2 player/. pl_metal1. pl_metal2. pl_step1 pl_step2
+
+// ESHQ04, train tunnel lock
+ESHQ04_1 deeoo train tunnel lock activated
+
+// ESHQ07, ESSL security system
+ESHQ07_1 buzwarn buzwarn invasion detected on level d
+ESHQ07_2 buzwarn buzwarn invasion detected on level b
+
+// ESHQ08, ESSL first hit
+ESHQ08_1 bizwarn bizwarn warning. security system has been breached. all personnel must leave lab
+ESHQ08_2 bizwarn bizwarn warning. radiation hazard. main reactor is damaged
+ESHQ08_3 emergency shut down activated
+
+// ESHQ15, power supply failure
+ESHQ15_1 buzwarn buzwarn warning. explosion in maintenance sector
+ESHQ15_2 bizwarn bizwarn warning. lab sector power supply malfunction. access lock activated
+ESHQ15_3 bizwarn bizwarn warning. lab sector security system malfunction. access has not been blocked
+
+// ESHQ16, secondary power supply use
+ESHQ16_1 deeoo warning. lab sector secondary power supply activated. all cleanup and security personnel must go to lab sector
+ESHQ16_2 common/npc_step1(v50) npc_step2(v75) npc_step3(v100) npc_step4(v130) npc_step2 npc_step2 npc_step3 npc_step1 npc_step4(v100) npc_step3(v75) npc_step1(v50) npc_step4(v25)
+
+// ESHQ17, earthquake
+ESHQ17_1 bizwarn bizwarn alert. illegal heat detected in rocket silo maintenance zone
+ESHQ17_2 bizwarn bizwarn alert. open fire in lab sector detected
+ESHQ17_3 bizwarn bizwarn alert. lab sector call failure. danger to personnel life expected
+ESHQ17_4 player/pl_metal1 pl_metal3 pl_metal4(v80) pl_metal1(v60) pl_metal2(v40) pl_metal3(v20)
+
+// ESHQ21, rocket launch
+ESHQ21_1 buzwarn buzwarn warning. forbidden life forms detected on level one
+ESHQ21_2 power supply failure expected
+ESHQ21_3 rocket has been activated
+ESHQ21_4 bizwarn bizwarn alert. rocket hit expected. all personnel must leave base
+
+// ESHQ32, breach
+ESHQ32_1 deeoo warning. control system malfunction. communication failure detected
+ESHQ32_2 deeoo alert. flooding of(p90) electric(p70)
+
+// ESHQ40, crush
+ESHQ40_1 bizwarn bizwarn alert. handling system malfunction. automatic control is down
+
+// ESHQ41, biohazard
+ESHQ41_1 bizwarn bizwarn biohazard alert. unauthorized life forms detected on level three
+ESHQ41_2 security lock down activated
+
+// ESHQ43, crush
+ESHQ43_1 bizwarn bizwarn alert. system control failure. command center is inoperative
+ESHQ43_2 bizwarn bizwarn high radiation alert. electromagnetic pipe is disengaged
+
+// ESHQ58, weapon
+ESHQ58_1 woop woop inoperative weapon detected in sector four
+
+// ESHQ62, Eigekkt defense activation
+ESHQ62_1 bizwarn bizwarn warning. defense system activated
