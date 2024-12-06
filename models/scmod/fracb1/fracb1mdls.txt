@@ -1,0 +1,35 @@
+"models/v_shock.mdl" "models/scmod/weapons/dmc/light/v_shock.mdl"
+"models/w_shock.mdl" "models/scmod/weapons/dmc/light/w_shock.mdl"
+"models/w_shock_rifle.mdl" "models/scmod/weapons/dmc/light/w_shock_rifle.mdl"
+"models/p_shock.mdl" "models/scmod/weapons/dmc/light/p_shock.mdl"
+"models/p_shock_rifle.mdl" "models/scmod/weapons/dmc/light/p_shock.mdl"
+
+"models/w_shotgun.mdl" "models/scmod/weapons/dmc/shot/w_shotgun.mdl"
+"models/p_shotgun.mdl" "models/scmod/weapons/dmc/shot/p_shotgun.mdl"
+"models/v_shotgun.mdl" "models/scmod/weapons/dmc/shot/v_shotgun.mdl"
+
+"models/w_9mmar.mdl" "models/scmod/weapons/dmc/ngun2/w_9mmar.mdl"
+"models/p_9mmar.mdl" "models/scmod/weapons/dmc/ngun2/p_9mmar.mdl"
+"models/v_9mmar.mdl" "models/scmod/weapons/dmc/ngun2/v_9mmar.mdl"
+
+"models/w_shotbox.mdl" "models/scmod/weapons/dmc/w_shotbox.mdl"
+"models/w_battery.mdl" "models/scmod/weapons/dmc/w_battery.mdl"
+"models/w_chainammo.mdl" "models/scmod/weapons/dmc/b_nail1.mdl"
+
+"models/v_crowbar.mdl" "models/scmod/secretcity/v_excalibar.mdl"
+"models/w_crowbar.mdl" "models/scmod/secretcity/w_excalibar.mdl"
+"models/p_crowbar.mdl" "models/scmod/secretcity/p_excalibar.mdl"
+
+"models/v_medkit.mdl" "models/scmod/secretcity/v_syringe.mdl"
+"models/w_pmedkit.mdl" "models/hunger/w_syringebox.mdl"
+"models/p_medkit.mdl" "models/hunger/p_syringe.mdl"
+
+"models/v_minigun.mdl" "models/scmod/secretcity/v_minigun.mdl"
+"models/w_minigun.mdl" "models/scmod/secretcity/w_minigun.mdl"
+"models/p_minigunspin.mdl" "models/scmod/secretcity/p_minigunspin.mdl"
+"models/p_minigunidle.mdl" "models/scmod/secretcity/p_minigunidle.mdl"
+
+"models/v_saw.mdl" "models/scmod/secretcity/v_saw.mdl"
+"models/w_saw.mdl" "models/scmod/secretcity/w_saw.mdl"
+"models/p_saw.mdl" "models/scmod/secretcity/p_saw.mdl"
+"models/w_saw_clip.mdl" "models/scmod/secretcity/w_saw_clip.mdl"

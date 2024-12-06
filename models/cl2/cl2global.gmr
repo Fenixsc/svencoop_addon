@@ -1,0 +1,96 @@
+"models/agrunt.mdl"       "models/cl2/agrunt.mdl"
+"models/barney.mdl"       "models/cl2/barney.mdl"
+"models/bullsquid.mdl"    "models/cl2/bullsquid.mdl"
+"models/controller.mdl"   "models/cl2/controller.mdl"
+"models/garg.mdl"         "models/cl2/garg.mdl"
+"models/babygarg.mdl"     "models/cl2/babygarg.mdl"
+"models/gman.mdl"         "models/cl2/gman.mdl"
+"models/headcrab.mdl"     "models/cl2/headcrab.mdl"
+"models/hgrunt.mdl"       "models/cl2/hgrunt.mdl"
+"models/houndeye.mdl"     "models/cl2/houndeye.mdl"
+"models/icky.mdl"         "models/cl2/icky.mdl"
+"models/islave.mdl"       "models/cl2/islave.mdl"
+"models/scientist.mdl"    "models/cl2/scientist.mdl"
+"models/zombie.mdl"       "models/cl2/zombie.mdl"
+"models/gonome.mdl"       "models/cl2/gonome.mdl"
+"models/zombie_soldier.mdl"       "models/cl2/zombie_soldier.mdl"
+"models/zombie_barney.mdl"       "models/cl2/zombie_barney.mdl"
+"models/scientist2.mdl"    "models/cl2/scientist2.mdl"
+"models/cleansuit_scientist.mdl"    "models/cl2/cleansuit_scientist.mdl"
+"models/massn.mdl"    "models/cl2/massn.mdl"
+"models/pit_drone.mdl"     "models/cl2/pit_drone.mdl"
+
+
+"models/p_egon.mdl"       "models/cl2/p_egon.mdl"
+"models/v_egon.mdl"       "models/cl2/v_egon.mdl"
+"models/w_egon.mdl"       "models/cl2/w_egon.mdl"
+
+"models/p_gauss.mdl"      "models/cl2/p_gauss.mdl"
+"models/v_gauss.mdl"      "models/cl2/v_gauss.mdl"
+"models/w_gauss.mdl"      "models/cl2/w_gauss.mdl"
+
+"models/p_grenade.mdl"    "models/cl2/p_grenade.mdl"
+"models/v_grenade.mdl"    "models/cl2/v_grenade.mdl"
+"models/w_grenade.mdl"    "models/cl2/w_grenade.mdl"
+
+
+"models/v_hgun.mdl"       "models/cl2/v_hgun.mdl"
+"models/w_hgun.mdl"       "models/cl2/w_hgun.mdl"
+"models/hornet.mdl"       "models/cl2/hornet.mdl"
+
+"models/v_rpg.mdl"        "models/cl2/v_rpg.mdl"
+"models/w_rpgammo.mdl"    "models/cl2/w_rpgammo.mdl"
+"models/rpgrocket.mdl"    "models/cl2/rpgrocket.mdl"
+
+"models/p_satchel.mdl"    "models/cl2/p_satchel.mdl"
+"models/v_satchel.mdl"    "models/cl2/v_satchel.mdl"
+"models/w_satchel.mdl"    "models/cl2/w_satchel.mdl"
+
+"models/p_squeak.mdl"     "models/cl2/p_squeak.mdl"
+"models/v_squeak.mdl"     "models/cl2/v_squeak.mdl"
+"models/w_squeak.mdl"     "models/cl2/w_squeak.mdl"
+
+"models/tree.mdl"         "models/cl2/tree.mdl"
+
+"models/p_9mmhandgun.mdl"     "models/cl2/p_9mmhandgun.mdl"
+"models/v_9mmhandgun.mdl"     "models/cl2/v_9mmhandgun.mdl"
+"models/w_9mmhandgun.mdl"     "models/cl2/w_9mmhandgun.mdl"
+
+
+"models/v_9mmar.mdl"     "models/cl2/v_9mmar.mdl"
+
+"models/v_357.mdl"     "models/cl2/v_357.mdl"
+
+"models/p_crossbow.mdl"     "models/cl2/p_crossbow.mdl"
+"models/v_crossbow.mdl"     "models/cl2/v_crossbow.mdl"
+"models/w_crossbow.mdl"     "models/cl2/w_crossbow.mdl"
+
+"models/p_crowbar.mdl"     "models/cl2/p_crowbar.mdl"
+"models/v_crowbar.mdl"     "models/cl2/v_crowbar.mdl"
+"models/w_crowbar.mdl"     "models/cl2/w_crowbar.mdl"
+
+"models/p_spore_launcher.mdl"     "models/cl2/p_spore_launcher.mdl"
+"models/v_spore_launcher.mdl"     "models/cl2/v_spore_launcher.mdl"
+"models/w_spore_launcher.mdl"     "models/cl2/w_spore_launcher.mdl"
+
+"models/p_m40a1.mdl"     "models/cl2/p_m40a1.mdl"
+"models/v_m40a1.mdl"     "models/cl2/v_m40a1.mdl"
+"models/w_m40a1.mdl"     "models/cl2/w_m40a1.mdl"
+
+"models/p_medkit.mdl"     "models/cl2/p_medkit.mdl"
+"models/v_medkit.mdl"     "models/cl2/v_medkit.mdl"
+
+"models/p_pipe_wrench.mdl"     "models/cl2/p_pipe_wrench.mdl"
+"models/v_pipe_wrench.mdl"     "models/cl2/v_pipe_wrench.mdl"
+"models/w_pipe_wrench.mdl"     "models/cl2/w_pipe_wrench.mdl"
+
+"models/p_shotgun.mdl"     "models/cl2/p_shotgun.mdl"
+"models/v_shotgun.mdl"     "models/cl2/v_shotgun.mdl"
+"models/w_shotgun.mdl"     "models/cl2/w_shotgun.mdl"
+
+"models/voltigore.mdl"     "models/cl2/voltigore.mdl"
+"models/hgrunt_medic.mdl"     "models/cl2/hgrunt_medic.mdl"
+"models/spore.mdl"           "models/cl2/spore.mdl"
+"models/spore_ammo.mdl"           "models/cl2/spore_ammo.mdl"
+"models/fgrunt_medic.mdl"          "models/cl2/bigsmoke.mdl"
+"models/hassassin.mdl"          "models/cl2/hassassin.mdl"
