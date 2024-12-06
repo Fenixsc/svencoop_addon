@@ -1,0 +1,15 @@
+maps/lmsbath.cfg
+maps/lmsbath.res
+maps/lmsbathskl.txt
+maps/lmsbath_motd.txt
+models/lmsbath/goddess.mdl
+models/lmsbath/bleachbones.mdl
+models/lmsbath/spawner.mdl
+sounds/lmsbathsrf.txt
+sprites/lmsbath/balllamp.spr
+gfx/env/nightmarebk.tga
+gfx/env/nightmareft.tga
+gfx/env/nightmarert.tga
+gfx/env/nightmarelf.tga
+gfx/env/nightmareup.tga
+gfx/env/nightmaredn.tga

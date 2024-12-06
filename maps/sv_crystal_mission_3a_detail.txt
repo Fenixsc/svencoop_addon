@@ -1,0 +1,2 @@
+FLR4C			detail/crystal_mission/flr4c_detail 1.0 1.0
+FLR01			detail/crystal_mission/flr01_detail 1.0 1.0

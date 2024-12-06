@@ -1,0 +1,20 @@
+lmsbath by the-middleman
+
+- Walk into one of the cells to join the game.
+- Wait until it is your time to spawn.
+- Kill everyone else, including other players
+  to win the game.
+- If the game has allready started or you died
+  you can not rejoin. You must wait until the
+  round is over. Don´t worry: a game takes only
+  a few minutes. You can spectate other players 
+  with one of the monitors.
+
+
+Known bugs:
+- Sometimes killed enemies will not drop
+  weapons.
+- Sometimes you can not pick up more than one
+  weapon of the same kind.
+- Sometimes weapons will appear in the spawn
+  area.

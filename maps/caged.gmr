@@ -1,0 +1,39 @@
+//COMMON
+"models/agibs.mdl" "models/caged/agibs.mdl"
+"models/can.mdl" "models/caged/can.mdl"
+"models/fleshgibs.mdl" "models/caged/fleshgibs.mdl"
+"models/leech.mdl" "models/caged/leech.mdl"
+"models/woodgibs.mdl" "models/caged/woodgibs.mdl"
+
+
+//SVEN-COOP VERSION
+"models/p_crowbar.mdl" "models/caged/p_crowbar.mdl"
+"models/v_crowbar.mdl" "models/caged/v_crowbar.mdl"
+"models/w_crowbar.mdl" "models/caged/w_crowbar.mdl"
+"models/v_medkit.mdl" "models/caged/v_medkit.mdl"
+"models/w_battery.mdl" "models/caged/w_battery.mdl"
+
+
+//CLASSIC MODE VERSION
+"models/hlclassic/p_crowbar.mdl" "models/caged/p_crowbar.mdl"
+"models/hlclassic/v_crowbar.mdl" "models/caged/v_crowbar.mdl"
+"models/hlclassic/w_crowbar.mdl" "models/caged/w_crowbar.mdl"
+"models/hlclassic/v_medkit.mdl" "models/caged/v_medkit.mdl"
+"models/hlclassic/p_9mmhandgun.mdl" "models/caged/p_9mmhandgun.mdl"
+"models/hlclassic/v_9mmhandgun.mdl" "models/caged/v_9mmhandgun.mdl"
+"models/hlclassic/w_9mmhandgun.mdl" "models/caged/w_9mmhandgun.mdl"
+"models/hlclassic/v_357.mdl" "models/caged/v_357.mdl"
+"models/hlclassic/p_9mmar.mdl" "models/caged/p_9mmar.mdl"
+"models/hlclassic/v_9mmar.mdl" "models/caged/v_9mmar.mdl"
+"models/hlclassic/w_9mmar.mdl" "models/caged/w_9mmar.mdl"
+"models/hlclassic/v_shotgun.mdl" "models/caged/v_shotgun.mdl"
+"models/hlclassic/v_crossbow.mdl" "models/caged/v_crossbow.mdl"
+"models/hlclassic/v_rpg.mdl" "models/caged/v_rpg.mdl"
+"models/hlclassic/v_grenade.mdl" "models/caged/v_grenade.mdl"
+"models/hlclassic/v_satchel.mdl" "models/caged/v_satchel.mdl"
+"models/hlclassic/v_satchel_radio.mdl" "models/caged/v_satchel_radio.mdl"
+"models/hlclassic/v_tripmine.mdl" "models/caged/v_tripmine.mdl"
+"models/hlclassic/w_battery.mdl" "models/caged/w_battery.mdl"
+"models/hlclassic/scientist.mdl" "models/caged/scientist.mdl"
+"models/hlclassic/hgrunt.mdl" "models/caged/hgrunt.mdl"
+"models/hlclassic/barney.mdl" "models/caged/barney.mdl"

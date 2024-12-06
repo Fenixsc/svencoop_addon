@@ -1,0 +1,12 @@
+ctf_face
++=============================+
+Conversion author: E.B. 'Xoleras'
+
+Original Author: Cedric 'Inoxx' Fiorentino
+
+Completion date: 06/2016
+
+Description:
+This is a reproduction of the legendary classic FPS map, Facing Worlds,
+by Inoxx, for Unreal Tournamnet (1999)
++===========+ www.xoleras.com +===========+

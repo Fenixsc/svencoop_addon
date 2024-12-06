@@ -1,0 +1,52 @@
+Frostline 1.2
+
+-- Starting the game --
+- Select one of the gamemode you want to play by clicking VOTE,
+  you can also activate modifiers by clicking them.
+- Set the rule limit and press GO to start the game,
+  you will also directed to additional voting to choose the map timeline.
+
+-- Gameplay --
+- Defend the main objective from incoming enemy waves,
+  there are 10 enemy waves you have to fend off.
+- Use the upgrade kit inside your shelter to purchase 
+  additional upgrades ranging from Team Effect to Equipment.
+- You'll earn points from taking out enemies and wave completion.
+- Keep an eye out for Resource Pack drop in every wave start, 
+  it will give your team additional points if you can return it to the shelter.
+- There are 4 achievements in this map, can you and your team get'em all?
+
+-- Update 1.2 Note --
+- Now playable in solo.
+- Overhauled level design.
+- Reworked modifiers.
+- New interface textures.
+- New models for Resource Pack.
+- Terminal interaction will now lock the button.
+- Balanced NPCs spawn rate & health, randomized spawn locations.
+- Added Generator to power up AI defense systems.
+- Added Side Turrets to add defense layer on left and right perimeter.
+- Added Fastload AI defense systems upgrade.
+- Added Extraload to extend mounted weapons ammunition.
+- Banana bomb is now disabled, hand grenade damage buffed.
+- Shotgun secondary fire behavior replaced into double shot.
+- Dropping weapons is no longer possible.
+
+-- Additional Note --
+- It is recommended to disable XP Mod or any health/armor altering plugins.
+- It may also recommended to play this map with stable connection due to
+  the map contains thousands of entities involved in the gameplay.
+- This map contains seperate models folder for NPCs, if you are
+  experience performance issues, you can replace the model in
+  'models/frostline/npc'.
+- Achievements data are accumulated each playthrough, it will be stored in
+  the game server. If you are the host, check in 'svencoop/maps/' directory
+  for 'frostline_v1r.save' file.
+
+-- Credits --
+Map by: Rhizka "I-ka."
+Chemlight and Resource Pack model by: Rhizka "I-ka."
+First Aid and Item Respawn sound by: Febbs!
+
+Special thanks to everyone involved in the testing, also to
+Sven Co-op community and devs for answering questions in mapping channel!

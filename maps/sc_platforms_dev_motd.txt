@@ -1,0 +1,21 @@
+Platforms
+
+Contact me from: Half-Life Dev YT or contacto.halflifedev@gmail.com
+
+Version: 2.0
+
+-----------------------------------
+
+In the reactor room, there are 64 platforms, each showing the face of 
+one of the four scientists.
+
+A screen on the wall will indicate which platform will remain and 
+which will disappear.
+
+Your goal is to position yourself on the correct platform before the 
+others disappear. The speed will increase in each phase, challenging 
+you to survive the 6 stages.
+
+Good luck!
+
+For 2 to 32 players.

@@ -1,0 +1,14 @@
+They Hunger Lobby
+=================
+
+Select one of 4 episodes to vote:
+-Episode 1
+-Episode 2
+-Episode 3
+-Escape
+
+Stand in the areas in front of the posters to vote. Voting times are 10 seconds.
+
+ Credits:
+Map design - AlexCorruptor
+Map logic - CubeMath

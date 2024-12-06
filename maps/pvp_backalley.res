@@ -1,0 +1,11 @@
+cs_747.wad
+cs_backalley.wad
+sound/ambience/alarm1.wav
+sound/ambience/car1.wav
+sound/ambience/car2.wav
+sound/ambience/cat1.wav
+sound/ambience/copter.wav
+sound/ambience/dog1.wav
+sound/ambience/dog2.wav
+sound/ambience/dog3.wav
+sound/ambience/dog4.wav

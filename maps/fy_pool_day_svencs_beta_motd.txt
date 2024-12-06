@@ -1,0 +1,35 @@
+Made by Sparks 
+Idea made by Tronal
+Level redesigned and testing planed by GordoHombreLibre.
+
+This is a common cs 1.6 map with a internal code to play like that.
+Choose a team steping on the color squares :
+Green : Spectator.
+Blue : Counter-Terrorist.
+Red : Terrorist.
+
+How to buy weapons : say on chat =>>> buy
+How to buy weapons with the "b" Key : 
+1 - Open de console
+2 - Write the next sentence : bind "b" "say buy"
+3 - Press enter dumbass.
+4 - Press escape and fucking play you fucking retard.
+
+
+Hecho por Sparks
+Idea creada por Tronal
+Redisenho de nivel  y pruebas planeadas por GordoHombreLibre.
+
+Este es un mapa cs 1.6 cualquiera con codigo interno para jugar asi mismo.
+Elige un equipo  parandote en los cuadrados con colores : 
+Verde : Espectador.
+Azul : Contra-Terrorista.
+Rojo : Terrorista.
+
+Como comprar armas : Escribir en chat =>>> buy
+Como comprar armas con la tecla "b" : 
+1 - Abre la consola
+2 - Escribe la siguiente oración : bind "b" "say buy"
+3 - Presiona enter idiota.
+4 - Presiona escame y juega de una jodida ves maldito idiota.
+

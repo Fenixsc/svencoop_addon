@@ -1,0 +1,91 @@
+MUSICTRACK: bm_c03
+
+NAME TRACK: Office complex
+
+LINK VIDEO: https://www.youtube.com/watch?v=87Ew0HkqWfo
+
+-------------------------------------------------------------------------------------
+
+MUSICTRACK: bm_c04
+
+NAME TRACK: We've got hostiles
+
+LINK VIDEO: https://www.youtube.com/watch?v=3UiKY_e3qDQ
+
+-------------------------------------------------------------------------------------
+
+MUSICTRACK: bm_c05
+
+NAME TRACK: Blast pit 3
+
+LINK VIDEO: https://www.youtube.com/watch?v=8jnFgqS5ZgM
+
+-------------------------------------------------------------------------------------
+
+MUSICTRACK: bm_c10
+
+NAME TRACK: Questionable Ethics 2
+
+LINK VIDEO: https://www.youtube.com/watch?v=xx2vV863_DU
+
+-------------------------------------------------------------------------------------
+
+MUSICTRACK: bm_c11
+
+NAME TRACK: Questionable Ethics
+
+LINK VIDEO: https://www.youtube.com/watch?v=QJLvM0WgpFI&t=74s
+
+-------------------------------------------------------------------------------------
+
+MUSICTRACK: bm_c12
+
+NAME TRACK: Forget about freeman
+
+LINK VIDEO: https://www.youtube.com/watch?v=FdJxZ3ECwf8
+
+-------------------------------------------------------------------------------------
+
+MUSICTRACK: hla_acremix
+
+NAME TRACK: Anticitizen REMIX
+
+LINK VIDEO: https://www.youtube.com/watch?v=XWPFNilbVdo&t=38s
+
+-------------------------------------------------------------------------------------
+
+MUSICTRACK: hla_anticitizen
+
+NAME TRACK: Anti-Citizen
+
+LINK VIDEO: https://www.youtube.com/watch?v=u6IJnyZVbAc
+
+-------------------------------------------------------------------------------------
+
+MUSICTRACK: bmx_01
+
+NAME TRACK: Trancendent
+
+LINK VIDEO: https://www.youtube.com/watch?v=8S22AEtiLsI&list=PLqWbjZ_t9qDlY08FPwztA2wXoil0mzusM
+
+-------------------------------------------------------------------------------------
+
+MUSICTRACK: bmx_02
+
+NAME TRACK: Internal Conflict
+
+LINK VIDEO: https://www.youtube.com/watch?v=Liv4CvpMdRA&list=PLqWbjZ_t9qDlY08FPwztA2wXoil0mzusM&index=2
+
+-------------------------------------------------------------------------------------
+
+MUSICTRACK: bmx_03
+
+NAME TRACK: Shadows of Death (v2)
+
+LINK VIDEO: https://www.youtube.com/watch?v=RmyciZVNVJk&list=PLqWbjZ_t9qDlY08FPwztA2wXoil0mzusM&index=9
+
+-------------------------------------------------------------------------------------
+
+MUSICTRACK: hl2ep2_vortal
+NAME TRACK: Vortal Combat
+LINK VIDEO: https://www.youtube.com/watch?v=O9pZOhAvMss

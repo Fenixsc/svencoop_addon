@@ -1,0 +1,20 @@
+UNI
+
+Part 1. Version 1.
+
+"This continous dream i had of this i dont know what, it wont stop sucking me in.
+maby i should try more than scratch surface of rust this time."
+
+
+
+
+Map: RNG
+Music and sounds: RNG & Cocyx
+Textures: RNG, Nightwatch, Graphtallica
+Some Special Textures: Cocyx
+Models: RNG
+Secondary Overworld song: Matmos - For Felix
+
+-This map can be played alone, but is suggested to wait joining people and move in groups
+
+-This is dubbed as Version 1 because i hit allock_block:full and had to cut lots of stuff for now

@@ -1,0 +1,24 @@
+Santa's Workshop by rSnake and Andy
+_______________________________
+
+
+It's almost Christmas and you and your friends are on the late-late shift at Santa's Workshop. Something is amiss however, and Santa will need your help solving the issues facing
+each floor of the workshop if Christmas is to be saved!
+
+____________________________
+
+3 players are needed at a bare minimum to complete the map, though you will find it much easier with a fourth.
+
+All the puzzles in this map revolve around the concept of two teams - Green and Yellow. Each player is assigned to a team, and teams can only interact with coloured surfaces, buttons,
+and doors which match their team colour. e.g. Yellow team members can walk on yellow floors, but not on green floors.
+
+Your current team is displayed on your HUD on the left hand-side. Each player will also have an icon above their player model showing which team they are on.
+
+You can switch to the Green or Yellow team by typing .green or .yellow respectively in chat.
+____________________________
+
+Map ported to Sven Co-op by Meryilla.
+
+Thanks to the S/v/en Co-op community for helping test the port.
+
+Originally made for TFC.

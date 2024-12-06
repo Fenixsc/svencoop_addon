@@ -1,0 +1,24 @@
+Map name:		Bridge the gap 2.0 rework
+
+Made by:		UrbaNebula
+
+Conversion by:		Mikk
+
+Script entities by:	Outerbeast
+
+Description:
+Those pesky HECU boys are at it again. Just look at what they've gone and done this time.
+Lowering the bridge leading to the surface elevator and then sealing off the control room.
+Even worse than that, this part of the facilty is crawling with Xenians and their ongoing dispute with...
+the Black Mesa Science Team over how dead they should be doesn't appear to be easing off at all!
+
+Sources:
+Play the original maps/mod
+https://www.runthinkshootlive.com/posts/bridge-the-gap/
+https://www.moddb.com/games/half-life/addons/bridge-the-gap-20
+
+Anti-Rush entity
+https://github.com/Outerbeast/anti_rush
+
+Checkpoint Spawner
+https://github.com/Outerbeast/Entities-and-Gamemodes/blob/master/checkpoint_spawner.as
